@@ -1,2 +1,2 @@
-face_id_beta.py тут находиться нейросеть 
-faceid_big_rgbd2.rar тут находиться весы нейросеть
+face_id_beta.py there is a neural network here 
+faceid_big_rgbd2.rar here is the scales neural network
